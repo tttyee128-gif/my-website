@@ -1,0 +1,46 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "src": "src/pages/Home.tsx"
+    },
+    {
+      "path": "/about",
+      "src": "src/pages/About.tsx"
+    },
+    {
+      "path": "/works",
+      "src": "src/pages/Works.tsx"
+    },
+    {
+      "path": "/timeline",
+      "src": "src/pages/Timeline.tsx"
+    },
+    {
+      "path": "/procreate",
+      "src": "src/pages/Procreate.tsx"
+    }
+  ],
+  "components": [
+    {
+      "name": "Layout",
+      "src": "src/components/Layout.tsx"
+    },
+    {
+      "name": "LeftSidebar",
+      "src": "src/components/LeftSidebar.tsx"
+    },
+    {
+      "name": "RightSidebar",
+      "src": "src/components/RightSidebar.tsx"
+    },
+    {
+      "name": "Y2KBadge",
+      "src": "src/components/Y2KBadge.tsx"
+    },
+    {
+      "name": "Y2KPanel",
+      "src": "src/components/Y2KPanel.tsx"
+    }
+  ]
+}
